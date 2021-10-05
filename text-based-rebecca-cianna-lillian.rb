@@ -1,6 +1,20 @@
 puts ' '
-puts 'TV/Movie Personality Test'
+puts ' ____  _  _      _    _  _   __   _  _  __  ____                     '
+puts '(_  _)/ )( \    / )  ( \/ ) /  \ / )( \(  )(  __)                    ' 
+puts '  )(  \ \/ /   / /   / \/ \(  O )\ \/ / )(  ) _)                     ' 
+puts ' (__)  \__/   (_/    \_)(_/ \__/  \__/ (__)(____)                    ' 
+puts ' ____  ____  ____  ____   __   __ _   __   __    __  ____  _  _      ' 
+puts '(  _ \(  __)(  _ \/ ___) /  \ (  ( \ / _\ (  )  (  )(_  _)( \/ )     ' 
+puts ' ) __/ ) _)  )   /\___ \(  O )/    //    \/ (_/\ )(   )(   )  /      ' 
+puts '(__)  (____)(__\_)(____/ \__/ \_)__)\_/\_/\____/(__) (__) (__/       ' 
+puts ' ____  ____  ____  ____                                              ' 
+puts '(_  _)(  __)/ ___)(_  _)                                             ' 
+puts '  )(   ) _) \___ \  )(                                               ' 
+puts ' (__) (____)(____/ (__)      '
+puts ' '
+
 #insert customized greeting
+puts 'Ready to figure out what TV/Movie Personality you vibe with!?'
 puts 'Respond to the following questions by typing the number that corresponds to your answer.'
 puts ' '
 puts ' '
@@ -48,7 +62,7 @@ puts ' '
 puts "Question 4: Someone bought you a drink from across the bar, what's your reaction?"
 puts "1) Someone bought me a drink? Must be the wrong person."
 puts "2) Yay! New best friend!"
-puts "3) Thank you, next. (I get this all the time."
+puts "3) Thank you, next. (I get this all the time.)"
 puts "4) What do you want from me (...seems suspicious)?"
 puts "5) *Looks over and winks*"
 
